@@ -9,4 +9,8 @@ Screenshots of App:
 
 <img width="1280" alt="Screen Shot 2020-11-11 at 14 36 27" src="https://user-images.githubusercontent.com/55896961/98872585-ae378580-242b-11eb-829e-af07b2aaf081.png">
 
+Description: This application is a social platform for developers. A user can register and build a profile with education and experience fields and connect with other developers. This app also allows the logges in user to have him/her github repos attatched to their profile for other developers to view. There is also a section to like, unlike, and comment on other developers post. Enjoy!!
+
+Technologies Used on Client: React, Redux, HTML, CSS, and Javascript
+
 
